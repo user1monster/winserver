@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00.
+
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\Shell\\BagMRU]
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\Shell\\Bags]
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\Bags]
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\ShellNoRoam\\BagMRU]
+[-HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\BagMRU]
+[-HKEY_CURRENT_USER\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\Bags]
+[-HKEY_CURRENT_USER\\Software\\Classes\\Wow6432Node\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\Bags]
+[-HKEY_CURRENT_USER\\Software\\Classes\\Wow6432Node\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\BagMRU]
+
+;To reset "Apply to Folders" views to default
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Streams\\Defaults]
+
+;To reset size of details, navigation, preview panes to default
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Modules\\GlobalSettings\\Sizer]
+[-HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Modules\\GlobalSettings\\DetailsContainer]
