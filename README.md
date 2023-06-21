@@ -11,4 +11,3 @@ I will briefly describe the scripts:
 5. "install sip.bat" - installs the latest stable version of the popular SIP Phone - "MicroSIP", after installation it clears all traces.
 6. "ntp fix.bat" - quick and easy edits for the region, you can change to any of your inside.
 
-Translated with www.DeepL.com/Translator (free version)
